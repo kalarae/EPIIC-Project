@@ -1,7 +1,7 @@
 # EPIIC Project for Yellowstone Ecological Research Center (YERC)
 
 ## Introduction
-The Customized Online Aggregation and Summarization Tool for Environmental Rasters (<a href="https://www.scirp.org/journal/paperinformation.aspx?paperid=26321">COASTER</a>) system was developed by the YellowStone Ecological Research Center (YERC) in response to the information needs of end-user communities interested in decision-support for natural resource management. The purpose of COASTER is to greatly simplify the process of creating predictor datasets for research exploring environmental impacts driven by climate change, land-use activities, disturbances (fire, flooding, etc) as well as invasive spread such as spine beetle infestations.
+The Customized Online Aggregation and Summarization Tool for Environmental Rasters (<a href="https://www.scirp.org/journal/paperinformation.aspx?paperid=26321">COASTER</a>) system was developed by the YellowStone Ecological Research Center (<a href="https://www.yellowstoneresearch.org/">YERC</a>) in response to the information needs of end-user communities interested in decision-support for natural resource management. The purpose of COASTER is to greatly simplify the process of creating predictor datasets for research exploring environmental impacts driven by climate change, land-use activities, disturbances (fire, flooding, etc) as well as invasive spread such as spine beetle infestations.
 
 ## Tools to follow the project
 Since we are using an Agile Software Developmement Cycle, we built a <a href="https://trello.com/b/PMgDugQn/esof-423-epiic">Trello Board</a> to clearly showcase our sprint backlog. 
